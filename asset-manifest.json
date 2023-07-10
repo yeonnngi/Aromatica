@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Aromatica/static/css/main.32d82253.css",
-    "main.js": "/Aromatica/static/js/main.2f70da01.js",
+    "main.css": "/Aromatica/static/css/main.777d2094.css",
+    "main.js": "/Aromatica/static/js/main.8e96f8dd.js",
     "static/js/787.d3b9b29e.chunk.js": "/Aromatica/static/js/787.d3b9b29e.chunk.js",
     "index.html": "/Aromatica/index.html",
-    "main.32d82253.css.map": "/Aromatica/static/css/main.32d82253.css.map",
-    "main.2f70da01.js.map": "/Aromatica/static/js/main.2f70da01.js.map",
+    "main.777d2094.css.map": "/Aromatica/static/css/main.777d2094.css.map",
+    "main.8e96f8dd.js.map": "/Aromatica/static/js/main.8e96f8dd.js.map",
     "787.d3b9b29e.chunk.js.map": "/Aromatica/static/js/787.d3b9b29e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.32d82253.css",
-    "static/js/main.2f70da01.js"
+    "static/css/main.777d2094.css",
+    "static/js/main.8e96f8dd.js"
   ]
 }
