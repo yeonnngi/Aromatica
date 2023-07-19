@@ -1,15 +1,42 @@
 {
   "files": {
-    "main.css": "/Aromatica/static/css/main.777d2094.css",
-    "main.js": "/Aromatica/static/js/main.8e96f8dd.js",
+    "main.css": "/Aromatica/static/css/main.9864fd32.css",
+    "main.js": "/Aromatica/static/js/main.129ce8d7.js",
+    "reactPlayerYouTube.js": "/Aromatica/static/js/reactPlayerYouTube.97191f38.chunk.js",
+    "reactPlayerSoundCloud.js": "/Aromatica/static/js/reactPlayerSoundCloud.65b4220b.chunk.js",
+    "reactPlayerVimeo.js": "/Aromatica/static/js/reactPlayerVimeo.97d309c6.chunk.js",
+    "reactPlayerFacebook.js": "/Aromatica/static/js/reactPlayerFacebook.c5a112e1.chunk.js",
+    "reactPlayerStreamable.js": "/Aromatica/static/js/reactPlayerStreamable.4d2cb443.chunk.js",
+    "reactPlayerWistia.js": "/Aromatica/static/js/reactPlayerWistia.d89b4698.chunk.js",
+    "reactPlayerTwitch.js": "/Aromatica/static/js/reactPlayerTwitch.0b279d50.chunk.js",
+    "reactPlayerDailyMotion.js": "/Aromatica/static/js/reactPlayerDailyMotion.508e37e8.chunk.js",
+    "reactPlayerMixcloud.js": "/Aromatica/static/js/reactPlayerMixcloud.f06d1725.chunk.js",
+    "reactPlayerVidyard.js": "/Aromatica/static/js/reactPlayerVidyard.ef4eca04.chunk.js",
+    "reactPlayerKaltura.js": "/Aromatica/static/js/reactPlayerKaltura.599972a7.chunk.js",
+    "reactPlayerFilePlayer.js": "/Aromatica/static/js/reactPlayerFilePlayer.73b3c5ab.chunk.js",
+    "reactPlayerPreview.js": "/Aromatica/static/js/reactPlayerPreview.43931952.chunk.js",
     "static/js/787.d3b9b29e.chunk.js": "/Aromatica/static/js/787.d3b9b29e.chunk.js",
+    "static/media/cicleBg.jpg": "/Aromatica/static/media/cicleBg.dc58e8dda9aa98da61b3.jpg",
     "index.html": "/Aromatica/index.html",
-    "main.777d2094.css.map": "/Aromatica/static/css/main.777d2094.css.map",
-    "main.8e96f8dd.js.map": "/Aromatica/static/js/main.8e96f8dd.js.map",
+    "main.9864fd32.css.map": "/Aromatica/static/css/main.9864fd32.css.map",
+    "main.129ce8d7.js.map": "/Aromatica/static/js/main.129ce8d7.js.map",
+    "reactPlayerYouTube.97191f38.chunk.js.map": "/Aromatica/static/js/reactPlayerYouTube.97191f38.chunk.js.map",
+    "reactPlayerSoundCloud.65b4220b.chunk.js.map": "/Aromatica/static/js/reactPlayerSoundCloud.65b4220b.chunk.js.map",
+    "reactPlayerVimeo.97d309c6.chunk.js.map": "/Aromatica/static/js/reactPlayerVimeo.97d309c6.chunk.js.map",
+    "reactPlayerFacebook.c5a112e1.chunk.js.map": "/Aromatica/static/js/reactPlayerFacebook.c5a112e1.chunk.js.map",
+    "reactPlayerStreamable.4d2cb443.chunk.js.map": "/Aromatica/static/js/reactPlayerStreamable.4d2cb443.chunk.js.map",
+    "reactPlayerWistia.d89b4698.chunk.js.map": "/Aromatica/static/js/reactPlayerWistia.d89b4698.chunk.js.map",
+    "reactPlayerTwitch.0b279d50.chunk.js.map": "/Aromatica/static/js/reactPlayerTwitch.0b279d50.chunk.js.map",
+    "reactPlayerDailyMotion.508e37e8.chunk.js.map": "/Aromatica/static/js/reactPlayerDailyMotion.508e37e8.chunk.js.map",
+    "reactPlayerMixcloud.f06d1725.chunk.js.map": "/Aromatica/static/js/reactPlayerMixcloud.f06d1725.chunk.js.map",
+    "reactPlayerVidyard.ef4eca04.chunk.js.map": "/Aromatica/static/js/reactPlayerVidyard.ef4eca04.chunk.js.map",
+    "reactPlayerKaltura.599972a7.chunk.js.map": "/Aromatica/static/js/reactPlayerKaltura.599972a7.chunk.js.map",
+    "reactPlayerFilePlayer.73b3c5ab.chunk.js.map": "/Aromatica/static/js/reactPlayerFilePlayer.73b3c5ab.chunk.js.map",
+    "reactPlayerPreview.43931952.chunk.js.map": "/Aromatica/static/js/reactPlayerPreview.43931952.chunk.js.map",
     "787.d3b9b29e.chunk.js.map": "/Aromatica/static/js/787.d3b9b29e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.777d2094.css",
-    "static/js/main.8e96f8dd.js"
+    "static/css/main.9864fd32.css",
+    "static/js/main.129ce8d7.js"
   ]
 }
